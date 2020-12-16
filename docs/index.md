@@ -15,17 +15,17 @@ her you can find my CV
 
   <body>
 
-    <h1 style="text-align:center">ראונק עאמר - קורות חיים</h1>
+    <h1 style="text-align:center"> Rawnaq Amer - CV </h1>
 
-    <p style="text-align:center; color:black"> טלפון: 0542322795 | מייל: rawnaq-amer94@hotmail.com | שנת לידה: 1994 | מגורים: כפר קאסם. </p>
+    <p style="text-align:center; color:black"> phone number:0542322795|email:rawnaq-amer94@hotmail.com|year of birth:1994|address:kafr qasem </p>
     <!--הערה - לא מופיעה בקוד-->
-    <p style="text-align:center; color:black"> סטודנטית לתואר ראשון במדעי המחשב ומתמטיקה, מחפשת משרת סטודנט בתחום מדעי המחשב. הנני אחראית, בעלת ראש גדול, יוזמה ויכולת למידה עצמאית</p>
+    <p style="text-align:center; color:black">student in computer science and mathematics,looking for a student job in the field of computer science.I am responsible, with a big head, initiative and the ability to learn independently. </p>
 
     <!--מעבר שורה-->
     <br>
-    <p style="text-align:right; color:green"><b><u>:השכלה</u></b></p>
-    <p style="text-align:right">  .במהלך תואר ראשון במדעי מחשב ומתמטיקה, שנה ג' ואחרונה, אוניברסיטת אריאל </p>
-    <p style="text-align:right">  .בגרות מלאה במגמת ביולוגיה, כימיה ומדעי המחשב, תיכון כפר קאסם </p>
+    <p style="text-align:right; color:green"><b><u>education:</u></b></p>
+    <p style="text-align:right">  During a bachelor's degree in computer science and mathematics (B.SC.), third and final year, Ariel University. </p>
+    <p style="text-align:right"> Full matriculation in biology, chemistry and computer science, Kfar Qassem High School. </p>
     <br>
 
     <p style="text-align:right; color:green"><b><u>:ניסיון תעסוקתי</u></b></p>
