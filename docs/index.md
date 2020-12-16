@@ -2,13 +2,13 @@
 
 her you can find my CV
 
-
 <html>
 
   <head>
      <link rel="stylesheet" type="text/css" href="style.css">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- </head>
+ <link type="text/css" rel="stylesheet" href="css/style.css"/>
+</head>
 
 
   <!--תגית בודי מעוצבת לימין ולעברית-->
@@ -19,18 +19,18 @@ her you can find my CV
 
     <p style="text-align:center; color:black"> טלפון: 0542322795 | מייל: rawnaq-amer94@hotmail.com | שנת לידה: 1994 | מגורים: כפר קאסם. </p>
     <!--הערה - לא מופיעה בקוד-->
-    <p style="text-align:center; color:black"> סטודנטית לתואר ראשון במדעי המחשב ומתמטיקה, מחפשת משרת סטודנט בתחום מדעי המחשב. הנני אחראית, בעלת ראש גדול, יוזמה ויכולת למידה עצמאית.</p>
+    <p style="text-align:center; color:black"> סטודנטית לתואר ראשון במדעי המחשב ומתמטיקה, מחפשת משרת סטודנט בתחום מדעי המחשב. הנני אחראית, בעלת ראש גדול, יוזמה ויכולת למידה עצמאית</p>
 
     <!--מעבר שורה-->
     <br>
-    <p style="text-align:right; color:green"><b><u>השכלה:</u>:</b></p>
-    <p style="text-align:right"> 2018-היום: במהלך תואר ראשון במדעי מחשב ומתמטיקה (B.SC.), שנה ג' ואחרונה, אוניברסיטת אריאל. </p>
-    <p style="text-align:right"> 2012: בגרות מלאה במגמת ביולוגיה, כימיה ומדעי המחשב, תיכון כפר קאסם. </p>
+    <p style="text-align:right; color:green"><b><u>:השכלה</u></b></p>
+    <p style="text-align:right">  .במהלך תואר ראשון במדעי מחשב ומתמטיקה, שנה ג' ואחרונה, אוניברסיטת אריאל </p>
+    <p style="text-align:right">  .בגרות מלאה במגמת ביולוגיה, כימיה ומדעי המחשב, תיכון כפר קאסם </p>
     <br>
 
-    <p style="text-align:right; color:green"><b><u>ניסיון תעסוקתי:</u>:</b></p>
+    <p style="text-align:right; color:green"><b><u>:ניסיון תעסוקתי</u></b></p>
     <p style="text-align:right">היום:Nayax Retail Support </p>
-    <p style="text-align:right"> 2020: מתפעלת פרויקט – VODמטעם משרד חינוך. (מטח)</p>
+    <p style="text-align:right"> מתפעלת פרוייקט שידורים מטעם משרד חינוך(מטח)2020:</p>
     <p style="text-align:right"> 2019: תמיכה טכנית בחברת מטח (מרכז טכנולוגיה חינוכית)</p>
     <p style="text-align:right">2018: קידום אתרים, שדורים ומכירות חברת כארט נט. </p>
     <p style="text-align:right">2016: טלרית בבנק לאומי מרכז עסקים ספיר.</p>
@@ -55,7 +55,8 @@ her you can find my CV
     <p style="text-align:right">אנגלית: ברמה מקובלת.</p>
 
 <p style="text-align:center; color:black">המלצות יועברו לפי דרישה.</p>
-  </body>
+  <script type="text/javascript" src="js/script.js"></script>
+</body>
 
 </html>
 
