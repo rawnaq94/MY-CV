@@ -2,7 +2,7 @@
 
 her you can find my CV
 
-<!DOCTYPE html>
+
 <html>
 
   <head>
@@ -59,11 +59,6 @@ her you can find my CV
 
 </html>
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rawnaq94/MY-CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
