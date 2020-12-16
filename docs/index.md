@@ -29,8 +29,8 @@ her you can find my CV
     <br>
 
     <p style="text-align:right; color:green"><b><u>:ניסיון תעסוקתי</u></b></p>
-    <p style="text-align:right">היום:Nayax Retail Support </p>
-    <p style="text-align:right"> מתפעלת פרוייקט שידורים מטעם משרד חינוך(מטח)2020:</p>
+    <p style="text-align:right">Nayax Retail Support היום:</p>
+    <p style="text-align:right"> 2020:מתפעלת פרוייקט שידורים מטעם משרד חינוך(מטח)</p>
     <p style="text-align:right"> 2019: תמיכה טכנית בחברת מטח (מרכז טכנולוגיה חינוכית)</p>
     <p style="text-align:right">2018: קידום אתרים, שדורים ומכירות חברת כארט נט. </p>
     <p style="text-align:right">2016: טלרית בבנק לאומי מרכז עסקים ספיר.</p>
