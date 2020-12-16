@@ -23,18 +23,18 @@ her you can find my CV
 
     <!--מעבר שורה-->
     <br>
-    <p style="text-align:right; color:green"><b><u>education:</u></b></p>
-    <p style="text-align:right">  During a bachelor's degree in computer science and mathematics (B.SC.), third and final year, Ariel University. </p>
-    <p style="text-align:right"> Full matriculation in biology, chemistry and computer science, Kfar Qassem High School. </p>
+    <p style="text-align:lift; color:green"><b><u>education:</u></b></p>
+    <p style="text-align:lift">  During a bachelor's degree in computer science and mathematics (B.SC.), third and final year, Ariel University. </p>
+    <p style="text-align:lift"> Full matriculation in biology, chemistry and computer science, Kfar Qassem High School. </p>
     <br>
 
-    <p style="text-align:right; color:green"><b><u>:ניסיון תעסוקתי</u></b></p>
-    <p style="text-align:right">Nayax Retail Support היום:</p>
-    <p style="text-align:right"> 2020:מתפעלת פרוייקט שידורים מטעם משרד חינוך(מטח)</p>
-    <p style="text-align:right"> 2019: תמיכה טכנית בחברת מטח (מרכז טכנולוגיה חינוכית)</p>
-    <p style="text-align:right">2018: קידום אתרים, שדורים ומכירות חברת כארט נט. </p>
-    <p style="text-align:right">2016: טלרית בבנק לאומי מרכז עסקים ספיר.</p>
-    <p style="text-align:right">2013-2016: קופאיות ואחראית משמרת ברשתות מגה.</p>
+    <p style="text-align:lift; color:green"><b><u>Experience:</u></b></p>
+    <p style="text-align:lift">today: Nayax Retail Support</p>
+    <p style="text-align:lift"> 2020: Operates a broadcast room, project VOD - Ministry of Education (CET) </p>
+    <p style="text-align:right">2020: Technical Support in Educational Technology Center company </p>
+    <p style="text-align:right">2018: Website promotion, broadcasts and sales of Cart Net </p>
+    <p style="text-align:right">2016: Teller at Bank Leumi Sapir Business Center</p>
+    <p style="text-align:right">2013-2016: Cashier and shift manager at Mega supermarket</p>
     <br>
 
     <p style="text-align:right; color:green"><b><u>התנדבות בקהילה:</u></b></p>
