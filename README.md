@@ -50,9 +50,9 @@ Her you can find my CV
     <br>
 
     <p style="text-align:right; color:green"><b><u>שפות: </u></b></p>
-    <p style="text-align:right"> ערבית: שפת אם. </p>
-    <p style="text-align:right"> עברית: ברמה טובה. </p>
-    <p style="text-align:right">אנגלית: ברמה מקובלת.</p>
+    <p style="text-align:right"> ערבית: שפת אם </p>
+    <p style="text-align:right"> עברית: ברמה טובה</p>
+    <p style="text-align:right">אנגלית: ברמה מקובלת</p>
 
 <p style="text-align:center; color:black">המלצות יועברו לפי דרישה.</p>
   </body>
