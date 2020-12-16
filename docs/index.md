@@ -31,30 +31,30 @@ her you can find my CV
     <p style="text-align:lift; color:green"><b><u>Experience:</u></b></p>
     <p style="text-align:lift">today: Nayax Retail Support</p>
     <p style="text-align:lift"> 2020: Operates a broadcast room, project VOD - Ministry of Education (CET) </p>
-    <p style="text-align:right">2020: Technical Support in Educational Technology Center company </p>
-    <p style="text-align:right">2018: Website promotion, broadcasts and sales of Cart Net </p>
-    <p style="text-align:right">2016: Teller at Bank Leumi Sapir Business Center</p>
-    <p style="text-align:right">2013-2016: Cashier and shift manager at Mega supermarket</p>
+    <p style="text-align:lift">2020: Technical Support in Educational Technology Center company </p>
+    <p style="text-align:lift">2018: Website promotion, broadcasts and sales of Cart Net </p>
+    <p style="text-align:lift">2016: Teller at Bank Leumi Sapir Business Center</p>
+    <p style="text-align:lift">2013-2016: Cashier and shift manager at Mega supermarket</p>
     <br>
 
-    <p style="text-align:right; color:green"><b><u>התנדבות בקהילה:</u></b></p>
-    <p style="text-align:right"> 2020: יוזמת בפרויקט העצמה ומנהיגות – מטעם מכללת אורנים.</p>
-    <p style="text-align:right"> 2019: חונכת לתלמידים בבית ספר יסודי, פרויקט פר"ח.</p>
-    <p style="text-align:right"> 2018-2016: רכזת חונכות ופרויקטים לקידום החינוך בבתי ספר יסודי, עמותת סלסביל\ מפעל הפיס.</p>
-    <p style="text-align:right"> 2015: מתנדבת עמותת " לסתא וחדק", כפר קאסם.</p>
+    <p style="text-align:lift; color:green"><b><u>Volunteering in the community: </u></b></p>
+    <p style="text-align:lift"> 2020: Initiator in the Empowerment and Leadership Project - Oranim College</p>
+    <p style="text-align:lift"> 2019: Mentoring for elementary students, Perach Project</p>
+    <p style="text-align:lift"> 2016-2017: Coordinator of mentoring and projects for the advancement of education, Salsbil / Mifal Hapayis.</p>
+    <p style="text-align:lift"> 2015: Volunteer in the association You are not alone for people with special needs</p>
     <br>
 
-    <p style="text-align:right; color:green"><b><u>שפות תכנות:</u></b></p>
-    <p style="text-align:right"> bash java, c#,json, xml, sql, mongDB, casndra, sparql, neo4j, python - פיתוח אפליקציות. Andriod\ios (ידע מעמיק בתחום הDeep Learning).
-      Assembler\Hardware Simulator. שליטה מלאה במערכות הCRM, Cyber Warfare</p>
+    <p style="text-align:lift; color:green"><b><u>Programming knowledge:</u></b></p>
+    <p style="text-align:lift"> bash java, c#,json, xml, sql, mongDB, casndra, sparql, neo4j, applications development Andriod\ios (Deep Learning).
+      Assembler\Hardware Simulator. CRM, Cyber Warfare course</p>
     <br>
 
-    <p style="text-align:right; color:green"><b><u>שפות: </u></b></p>
-    <p style="text-align:right"> ערבית: שפת אם. </p>
-    <p style="text-align:right"> עברית: ברמה טובה. </p>
-    <p style="text-align:right">אנגלית: ברמה מקובלת.</p>
+    <p style="text-align:lift; color:green"><b><u> Languages:</u></b></p>
+    <p style="text-align:lift"> Arbic: mother language </p>
+    <p style="text-align:lift"> Hebrew: At a very good level </p>
+    <p style="text-align:lift"> English in good level</p>
 
-<p style="text-align:center; color:black">המלצות יועברו לפי דרישה.</p>
+<p style="text-align:center; color:black">Recommendations will be provided upon request</p>
   <script type="text/javascript" src="js/script.js"></script>
 </body>
 
